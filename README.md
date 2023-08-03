@@ -1,9 +1,12 @@
 # 开发文档
 
+## 文档编写
+
+修改docs/source/hundunapidocs.md文件
+
 ## 编译
 
 ```
-git clone git@github.com:hundunchain/apidocs.git
 
 cd apidocs/docs
 
